@@ -1,5 +1,7 @@
 install innotop 1.8.1
 =====================
+[![Build Status](https://secure.travis-ci.org/thomasvandoren/puppet-innotop.png?branch=master)](http://travis-ci.org/thomasvandoren/puppet-innotop)
+
 Install innotop 1.8.1 from tar ball.
 
 Examples
