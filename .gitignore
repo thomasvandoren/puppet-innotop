@@ -1,0 +1,8 @@
+# Build artifacts.
+/doc
+/pkg
+
+# Emacs stuff.
+*~
+*#*#
+*.#*
