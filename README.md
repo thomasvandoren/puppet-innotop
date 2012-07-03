@@ -2,6 +2,12 @@ install innotop 1.8.1
 =====================
 Install innotop 1.8.1 from tar ball.
 
+Examples
+--------
+```puppet
+include innotop
+```
+
 Author
 ------
 Thomas Van Doren
